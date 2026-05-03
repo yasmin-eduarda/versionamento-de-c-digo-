@@ -26,4 +26,4 @@ Diversas linguagens conforme os exercícios:
 Os códigos podem conter erros ou versões em evolução, pois fazem parte do processo de aprendizado.
 
 ## 👨‍🎓 Autor
-Yasmin Eduarda
+Yasmin Vona
